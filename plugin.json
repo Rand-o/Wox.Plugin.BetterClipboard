@@ -1,0 +1,12 @@
+{
+    "ID":"9630C798BA8F4E0E9DD136511AAAA9DF",
+    "ActionKeyword":"bc",
+    "Name":"Better Clipboard",
+    "Description":"Keep a clipboard history",
+    "Author":"Rando",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Rand-o/",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"clipboard.py"
+}
